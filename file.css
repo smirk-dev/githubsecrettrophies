@@ -1,0 +1,17 @@
+/* This is a CSS comment */
+
+/* Element Selector */
+p {
+  color: blue; /* Sets the text color of all paragraphs to blue */
+  font-size: 18px; /* Sets the font size of all paragraphs to 18 pixels */
+}
+
+/* Class Selector */
+.highlight {
+  background-color: yellow; /* Sets the background color of elements with class "highlight" to yellow */
+}
+
+/* ID Selector */
+#main-heading {
+  text-align: center; /* Centers the text of the element with ID "main-heading" */
+}

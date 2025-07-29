@@ -1,0 +1,1 @@
+MOV AX, 10    ; Move the immediate value 10 into the AX register
